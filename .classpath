@@ -6,5 +6,11 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="TrainScreenApplication/src"/>
+	<classpathentry kind="src" path="Weather/src"/>
+	<classpathentry kind="src" path="News/src"/>
+	<classpathentry kind="src" path="WeatherTest"/>
+	<classpathentry kind="src" path="NewsTest"/>
+	<classpathentry kind="src" path="TrainScreenApplicationTest"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
