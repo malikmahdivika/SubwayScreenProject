@@ -21,8 +21,7 @@ public class DatabaseConnection {
 	
 	// This Is The Public Main Function/Method Used To Test The Connection To Our SQL Database, If There Is No Connection Then A SQLException Will Be Thrown Notifying Failed Database Connection Otherwise The Connection Message Will Show:
 	
-	
-	 
+/**
 	 public static void main(String[] args) {
 	    try {
 	        Connection connection = DatabaseConnection.getConnection();
@@ -33,6 +32,5 @@ public class DatabaseConnection {
 	        e.printStackTrace();
 	    }
 	}
-	
-
+**/
 }
